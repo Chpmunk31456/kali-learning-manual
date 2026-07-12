@@ -9,6 +9,11 @@ A free, beginner-friendly practical manual for understanding when, why, and how 
 - [English PDF](Kali_Linux_AI_Security_Forensics_English_v1.0.pdf)
 - [Editable Word source](Kali_Linux_AI_Security_Forensics_English_v1.0.docx)
 
+## Descargar la edición en español
+
+- [PDF en español](Kali_Linux_AI_Security_Forensics_Espanol_v1.0.pdf)
+- [Documento Word editable](Kali_Linux_AI_Security_Forensics_Espanol_v1.0.docx)
+
 ## Ethical-use statement
 
 Use this manual only for authorized labs, systems you own, or systems you have clear written permission to test.
