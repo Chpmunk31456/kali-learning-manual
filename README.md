@@ -1,4 +1,4 @@
-A free, beginner-friendly practical manual for understanding when, why, and how to use essential cybersecurity tools.
+A[ free, beginner-friendly practical manual for understanding when, why, and how to use essential cybersecurity tools.
 
 ## Author
 
@@ -33,4 +33,4 @@ Use this manual only for authorized labs, systems you own, or systems you have c
 
 ## License
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.](https://directlyapply.com/jobalert/6094fe6b20d60dff8378b8d6007afddb)
